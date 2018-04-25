@@ -1,0 +1,116 @@
+{
+  "companies": [
+    {
+      "id": 0,
+      "name": "Tsunamia",
+      "type": "Sole Proprietorship",
+      "revenuePerWeek": {
+        "monday": 35,
+        "tuesday": 4,
+        "wednesday": 13,
+        "thursday": 10,
+        "friday": 13,
+        "saturday": 33,
+        "sunday": 31
+      },
+      "revenue": 4716,
+      "monthRevenue": 238
+    },
+    {
+      "id": 1,
+      "name": "Medifax",
+      "type": "Corporation",
+      "revenuePerWeek": {
+        "monday": 40,
+        "tuesday": 17,
+        "wednesday": 39,
+        "thursday": 32,
+        "friday": 8,
+        "saturday": 36,
+        "sunday": 8
+      },
+      "revenue": 4488,
+      "monthRevenue": 327
+    },
+    {
+      "id": 2,
+      "name": "Qnekt",
+      "type": "Sole Proprietorship",
+      "revenuePerWeek": {
+        "monday": 38,
+        "tuesday": 24,
+        "wednesday": 42,
+        "thursday": 45,
+        "friday": 29,
+        "saturday": 42,
+        "sunday": 26
+      },
+      "revenue": 4068,
+      "monthRevenue": 381
+    },
+    {
+      "id": 3,
+      "name": "Endipin",
+      "type": "Limited Partnership",
+      "revenuePerWeek": {
+        "monday": 40,
+        "tuesday": 17,
+        "wednesday": 46,
+        "thursday": 36,
+        "friday": 12,
+        "saturday": 38,
+        "sunday": 41
+      },
+      "revenue": 3852,
+      "monthRevenue": 303
+    },
+    {
+      "id": 4,
+      "name": "Netbook",
+      "type": "Sole Proprietorship",
+      "revenuePerWeek": {
+        "monday": 47,
+        "tuesday": 7,
+        "wednesday": 24,
+        "thursday": 37,
+        "friday": 2,
+        "saturday": 34,
+        "sunday": 29
+      },
+      "revenue": 2676,
+      "monthRevenue": 290
+    },
+    {
+      "id": 5,
+      "name": "Buzzmaker",
+      "type": "Limited Partnership",
+      "revenuePerWeek": {
+        "monday": 28,
+        "tuesday": 36,
+        "wednesday": 18,
+        "thursday": 23,
+        "friday": 43,
+        "saturday": 6,
+        "sunday": 44
+      },
+      "revenue": 2796,
+      "monthRevenue": 217
+    },
+    {
+      "id": 6,
+      "name": "Neurocell",
+      "type": "Limited Partnership",
+      "revenuePerWeek": {
+        "monday": 11,
+        "tuesday": 44,
+        "wednesday": 6,
+        "thursday": 20,
+        "friday": 43,
+        "saturday": 3,
+        "sunday": 33
+      },
+      "revenue": 3780,
+      "monthRevenue": 358
+    }
+  ]
+}
